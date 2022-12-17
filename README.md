@@ -14,8 +14,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- I am a software egineer graduate and a data scientist and machine learning enthusiast. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. 
-- I am currently learning:
+- I am a software engineer graduate and a data scientist and machine learning enthusiast. I find fulfillment in bringing ideas to life through innovative approaches. I’m always curious about learning new skills, tools, and concepts.
    1. Web development, exploring various tech stacks.
    2. Python for data science.
    3. Data visualisation and storytelling.
@@ -23,3 +22,5 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalindasiaminwe&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 <br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
